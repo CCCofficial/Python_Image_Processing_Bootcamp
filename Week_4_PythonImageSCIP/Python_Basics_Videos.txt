@@ -1,0 +1,5 @@
+Python Basics Videos
+1. Python for Beginners - Learn Python in 1 Hour https://www.youtube.com/watch?v=kqtD5dpn9C8
+2. Learn NUMPY in 5 minutes https://youtu.be/xECXZ3tyONo
+3. How to Use Lists in Python https://www.youtube.com/watch?v=9OeznAkyQz4
+4. Python Lists https://youtu.be/ohCDWZgNIU0
