@@ -1,2 +1,2 @@
 # SCIP_PythonImageProcessing
-Self-paced Co-Lab instructional programs
+Self-paced instructional programs to teach Python-based image processing. Written for Google’s Colaboratory (“Colab”) platform. Each module is a self-contained Jupyter notebook with text and images explaining the purpose of the module, links to papers and videos covering the topic, and a sequence of code segments and their output, to teach programming concepts and methods. 
